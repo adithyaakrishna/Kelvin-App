@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999774462302",
+    "firebase_url": "https://kelvin-863e6.firebaseio.com",
+    "project_id": "kelvin-863e6",
+    "storage_bucket": "kelvin-863e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999774462302:android:86eeceac619729bb21afcf",
+        "android_client_info": {
+          "package_name": "com.kelvin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999774462302-jv87dala513ehc5rnt9i5mqto05h582a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin",
+            "certificate_hash": "2c4e50849589bc084cc4a54c71a6c39258d619ae"
+          }
+        },
+        {
+          "client_id": "999774462302-a37ubk0s9aka16l81br51bas70r4njfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAdURgK8LeQ8cxL9MbhGk7PfXtvTelOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999774462302-a37ubk0s9aka16l81br51bas70r4njfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
